@@ -48,7 +48,7 @@
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-- This project was part of Upgrad's Exploratory Data Analysis Project.
+- This project was part of Upgrad's Machine Learning - 1 Project.
 - References if any...
   - [Seaborn Documentation](https://seaborn.pydata.org/api.html)
   - [Matplotlib Documentation](https://matplotlib.org/stable/api/index.html)
